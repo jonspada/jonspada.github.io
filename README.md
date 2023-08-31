@@ -1,2 +1,2 @@
 # jonspada.github.io
-Prjeto Compass
+Projeto Compass
